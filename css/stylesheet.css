@@ -68,6 +68,21 @@ nav a{
   text-decoration: none;
 }
 
+nav a:hover{
+  color: #222;
+  background-color: #FAFAFA;
+  padding: 0.5em;
+  border-radius: 8px;
+}
+
+nav a:focus{
+  color: #e8e8e8;
+  background-color:#0E1215;
+  padding: 0.5em;
+  border-color: antiquewhite;
+  border-radius: 8px;
+}
+
 /* BG colors */
 .bg-black{
   background-color: #0E1215;
