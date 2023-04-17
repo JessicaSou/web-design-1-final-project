@@ -229,29 +229,6 @@ cite{
 }
 
 
-/* nav{
-  display: flex;
-  justify-content: space-between;
-  color: white;
-}
-
-nav ul{
-  list-style: none;
-  display: block;
-  padding: 0;
-}
-
-nav li{
-  display: inline;
-}
-
-nav a{
-  display: inline-block;
-  color: white;
-  text-decoration: none;
-} */
-
-
 /* footer */
 footer{
   background-color: #0E1215;
